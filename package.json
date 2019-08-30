@@ -15,5 +15,6 @@
     "secure"
   ],
   "author": "Roger Chapman",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/kayla-tech/react-native-privacy-snapshot"
 }
